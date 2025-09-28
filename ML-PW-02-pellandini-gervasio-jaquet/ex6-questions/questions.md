@@ -1,3 +1,5 @@
+TP fais par : Leo Pellandini, Steven Jaquet et André Quintas Gervasio
+
 # K-Nearest Neighbors – Questions
 
 ## a)
